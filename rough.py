@@ -10,3 +10,7 @@ my_int = 143
 a = 'x'
 b = 'y'
 print(a+b)
+
+# from oops_proj import social_network_chat
+
+# obj_class = social_network_chat()
