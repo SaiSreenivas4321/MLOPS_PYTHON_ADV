@@ -1,0 +1,12 @@
+1.classes and objects exampkes 
+2. classes has data attributes and func/methods
+    > code walkthrough
+    > attributes get called itslef, methoda are called manually
+3. why Python is called oop ? -evrything is an object (data structure , data type etc)
+4. Advantages of OOPS:
+   > You can create your own datatype
+   > code reusability
+   > debugging
+   > easy to colab
+
+   
